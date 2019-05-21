@@ -47,3 +47,16 @@ Succesfully forked #100daysofcode repo and am on my way
 NOTE: I know I know I set up my GitHub page tho for it!
 
 2. [GitHub repo](https://github.com/DavidEspinoza)
+
+### Day 1: 5/20/2019
+
+**Progress**
+Finished pair programming challenge for Chingu which is a relief even though it wasn't a super
+hard challenge but for me it was hard enough and i feel i got to help out and be a part of the solution. Havne't made progress on the clone solo project. I was spinning my wheels on trying to figure out how to show the current date and time. I feel a little discouraged but I'm not giving up. 
+
+**Thoughts**
+
+I hope i can finish this solo project and move on to the actual project but not at the expense of my sanity. I need to ask for help and stay positive because I'm my own worst critic. 
+
+**Link to work**
+[Code Wars](https://www.codewars.com/users/DavidEspinoza/completed_solutions)
