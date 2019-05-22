@@ -60,3 +60,18 @@ I hope i can finish this solo project and move on to the actual project but not 
 
 **Link to work**
 [Code Wars](https://www.codewars.com/users/DavidEspinoza/completed_solutions)
+
+###Day 2: 5/21/2019
+
+**Progress** 
+Spent some time chatting with Chingu partner about various solo project related topics such as
+VS Code and GitHub and VS Code extionsions. We're both kind of on the same page as far as how 
+far along we are with the project which isn't far. I added the font from Google and formatted the time with JS for one of the requirements. I can't figure out how to make the AM or PM with the time
+be smaller than the time. 
+
+**Thoughts** 
+I'm perfectly ok with not being able to finish this project because I'm trying and if I don't move
+on to the actual project I know what I have to work on. 
+
+**Link to work**
+[GitHub](https://davidespinoza.github.io/InitTab-Landing-Page-Clone/)
