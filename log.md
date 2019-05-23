@@ -75,3 +75,17 @@ on to the actual project I know what I have to work on.
 
 **Link to work**
 [GitHub](https://davidespinoza.github.io/InitTab-Landing-Page-Clone/)
+
+
+
+###Day 3: 5/22/2019
+
+**Progress** 
+Got time in correct format! Was hacky but yeah. Reached out which for me has been a barrier I'm learning to overcome. Still have a long ways to go with this but I'm happy I got that part. 
+
+**Thoughts** 
+I was looking at software jobs on Craigslist and is very intimidating. I applied to a couple. I need a plan so I don't look like an idiot should I get an interview. I need to know what I want
+to do within software. 
+
+**Link to work**
+[GitHub](https://davidespinoza.github.io/InitTab-Landing-Page-Clone/)
