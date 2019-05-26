@@ -89,3 +89,16 @@ to do within software.
 
 **Link to work**
 [GitHub](https://davidespinoza.github.io/InitTab-Landing-Page-Clone/)
+
+###Day 4: 5/26/2019
+
+**Progress** 
+None. I'm confused and frustrated. I managed to get a clock; spent bunch of time going nowhere. 
+
+**Thoughts**
+I hope I don't give up and keep pushing forward and am smart of about this process/journey because
+there is nothing else I want to do as a vocation but this because I can't see what else I could do to provide for myself but it seems like I'm so far away from being a developer. I'ts hard to even make sense of what I'm thinking and feeling about "development"; I feel like the most important kind of development I need is self-development and hack myself. I don't want to settle in any
+area of my life but it seems I've made no progress yet am feeling like I've wasted and am wasting
+time and don't have a life I want which I know is not related to development but so much of life IS
+what you do for money and going to school and getting an education and spending all that time and energy was to make more money to have a better life and I don't have more money. I know more money
+won't make me happier but I'm also not "happy" or doesn't sit well with me that I'm a server. 
