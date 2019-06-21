@@ -102,3 +102,17 @@ area of my life but it seems I've made no progress yet am feeling like I've wast
 time and don't have a life I want which I know is not related to development but so much of life IS
 what you do for money and going to school and getting an education and spending all that time and energy was to make more money to have a better life and I don't have more money. I know more money
 won't make me happier but I'm also not "happy" or doesn't sit well with me that I'm a server. 
+
+
+###Day 4: 6/20/19
+
+**Progress**
+It seems the solo project this time around is easier but still have a ways to go. I'm happy about the little yet a lot I'm learning; putting stuff together. 
+
+**Thoughts**
+There is so many jumbled thoughts and emotions going through me. I just want to finish this and learn shit. I'm going to push through the frustration and keep at it no matter how long it takes. I know if I consistently code and push myself when I get stuck there is no way I can't not be learning. I have to talk to myself positevely and just be patient with myself. Sure there's more BS
+I can say but the bottom line is that I just got to build shit. Sure I can have fun in the process 
+but the point is to develop and create. 
+
+**Link To Work**
+[GitHub](https://davidespinoza.github.io/LloydsOfLondonTakingControlPageClone/)
