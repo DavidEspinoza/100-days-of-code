@@ -61,7 +61,7 @@ I hope i can finish this solo project and move on to the actual project but not 
 **Link to work**
 [Code Wars](https://www.codewars.com/users/DavidEspinoza/completed_solutions)
 
-###Day 2: 5/21/2019
+### Day 2: 5/21/2019
 
 **Progress** 
 Spent some time chatting with Chingu partner about various solo project related topics such as
@@ -78,7 +78,7 @@ on to the actual project I know what I have to work on.
 
 
 
-###Day 3: 5/22/2019
+### Day 3: 5/22/2019
 
 **Progress** 
 Got time in correct format! Was hacky but yeah. Reached out which for me has been a barrier I'm learning to overcome. Still have a long ways to go with this but I'm happy I got that part. 
@@ -90,7 +90,7 @@ to do within software.
 **Link to work**
 [GitHub](https://davidespinoza.github.io/InitTab-Landing-Page-Clone/)
 
-###Day 4: 5/26/2019
+### Day 4: 5/26/2019
 
 **Progress** 
 None. I'm confused and frustrated. I managed to get a clock; spent bunch of time going nowhere. 
@@ -104,7 +104,7 @@ what you do for money and going to school and getting an education and spending 
 won't make me happier but I'm also not "happy" or doesn't sit well with me that I'm a server. 
 
 
-###Day 4: 6/20/19
+### Day 5: 6/20/19
 
 **Progress**
 It seems the solo project this time around is easier but still have a ways to go. I'm happy about the little yet a lot I'm learning; putting stuff together. 
@@ -117,7 +117,7 @@ but the point is to develop and create.
 **Link To Work**
 [GitHub](https://davidespinoza.github.io/LloydsOfLondonTakingControlPageClone/)
 
-###Day 5: 8/22/19
+### Day 6: 8/22/19
 
 **Progress**
 
