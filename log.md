@@ -116,3 +116,28 @@ but the point is to develop and create.
 
 **Link To Work**
 [GitHub](https://davidespinoza.github.io/LloydsOfLondonTakingControlPageClone/)
+
+###Day 5: 8/22/19
+
+**Progress**
+
+Progress in the area of coding has been miniscule; I've reapplied to Chingu without having been able
+to move on to the actual project. I don't think I'll move on this time. I am looking at Outreachy. 
+What I'm getting at is that coding isn't the priority I feel it has to be to get the results I want.
+I'm not giving up but am not putting in the time I know I have to but there is more important things
+in my life right now that have to take precedence over coding. Things are slowing down at work and intend to devote more time to coding and build stuff. Of course I want to have a personal portofolio. On it I want to include links to my YouTube channel where I have my drumming at church. 
+I also want to talk about spirituality and my faith journey in a non-religious way. I also want to talk about yoga and the place it has in my life and how yoga is important for my overall wellbeing
+which helps in all areas of my life. I've stopped thinking I have to be a "designer" or super creative to make a website look cool. I have a personality and qualities that make me unique and think I'm a pretty cool person therefore can use my portfolio to show the world a bit about myself. 
+
+**Thoughts**
+Did I mention I started Chingu again. I struggled a bit there with cloning my repo locally
+to be able to use VS Code to work on the pre-work but got through it. The pre-work is due the 27th
+and honestly don't think I'm going to be able to finish. I'm doing what I can and don't want to
+burn myself out because I believe every moment of my short time here on earth should be pleasant;
+and that is not to say I don't believe in hard work and that there isn't a direct correlation between how much I work on something or give of myself to something and the success of it
+or tangible awesomeness out of it. I believe I should do everything with all my heart and if 
+not shouldn't do it at all. 
+
+**Link To Work**
+[GitHub](https://davidespinoza.github.io/Conquer/)
+
